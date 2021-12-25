@@ -1,6 +1,7 @@
 body {
     background-color: black;
     font-family: Verdana,Geneva,sans-serif;
+    text-align: center;
 }
 h1 {
     color: #fff;
@@ -8,15 +9,26 @@ h1 {
     font-size: 50px;
     text-align: center;
 }
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: #fff;
+}
 video {
     margin-left: auto;
     margin-right: auto;
     display: block
 }
-p {
-    text-align: center;
-}
+
 .cta {
     color: Aquamarine;
     font-size: 16px;
+}
+.excursion {
+    font-size: 21px;
+    color: gray;
+}
+.footer {
+    text-align: right;
+    color: gray;
 }
